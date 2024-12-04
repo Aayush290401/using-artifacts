@@ -2,7 +2,7 @@ name: artifact
 
 on: [push]
 
-env:
+env: 
   FILE_NAME: hello-server
 
 jobs:
